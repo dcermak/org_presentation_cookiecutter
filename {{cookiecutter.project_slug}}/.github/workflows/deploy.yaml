@@ -40,6 +40,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
 {% raw %}    if: ${{ github.ref == 'refs/heads/main' }}{% endraw %}
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: actions/download-artifact@v3
