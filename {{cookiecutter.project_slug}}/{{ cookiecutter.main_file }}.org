@@ -1,7 +1,7 @@
 # -*- org-confirm-babel-evaluate: nil; -*-
 #+AUTHOR: Dan Čermák
 #+DATE: 
-#+EMAIL: dcermak@suse.com
+#+EMAIL: dan.cermak@posteo.net
 #+TITLE: {{ cookiecutter.presentation_title }}
 # #+SUBTITLE: Testing Container Images with Python and Pytest
 
