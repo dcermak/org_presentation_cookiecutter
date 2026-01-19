@@ -29,7 +29,7 @@ Dan Čermák
 
 @@html: <div style="float:center">@@
 @@html: <table class="who-table">@@
-@@html: <tr><td><i class="fab fa-suse"></i></td><td> Software Developer @SUSE</td></tr>@@
+@@html: <tr><td><i class="fab fa-suse"></i></td><td> Fullstack Developer @SUSE</td></tr>@@
 @@html: <tr><td><i class="fab fa-fedora"></i></td><td> i3 SIG, Package maintainer</td></tr>@@
 @@html: <tr><td><i class="far fa-heart"></i></td><td> Developer Tools, Testing and Documentation, Home Automation</td></tr>@@
 @@html: <tr></tr>@@
