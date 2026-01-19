@@ -3,7 +3,7 @@
 #+DATE: 
 #+EMAIL: dan.cermak@posteo.net
 #+TITLE: {{ cookiecutter.presentation_title }}
-# #+SUBTITLE: Testing Container Images with Python and Pytest
+#+SUBTITLE: {{ cookiecutter.presentation_subtitle }}
 
 #+REVEAL_ROOT: ./node_modules/reveal.js/
 #+REVEAL_THEME: simple

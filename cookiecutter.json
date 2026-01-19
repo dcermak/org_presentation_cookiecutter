@@ -3,5 +3,6 @@
   "project_slug": "my-presentation",
   "conference": "Conference Title",
   "presentation_title": "Full presentation title",
+  "presentation_subtitle": "Presentation subtitle",
   "main_file": "my-presentation"
 }
