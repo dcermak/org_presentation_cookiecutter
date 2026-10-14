@@ -52,5 +52,6 @@ Dan Čermák
 
 * Questions?
 
-#+ATTR_REVEAL: :frag (appear)
-Answers!
+@@html:<img src="./media/qr.svg" height="300px"/>@@
+
+@@html:<i class="fa-solid fa-person-chalkboard"></i>@@ [[https://{{ cookiecutter.github_username }}.github.io/{{ cookiecutter.project_slug }}/{{ cookiecutter.main_file }}.html][={{ cookiecutter.github_username }}.github.io/{{ cookiecutter.project_slug }}=]]
