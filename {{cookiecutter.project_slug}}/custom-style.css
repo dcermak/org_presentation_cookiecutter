@@ -17,6 +17,11 @@ li {
   font-size: 35px;
 }
 
+.material-symbols-outlined {
+  font-size: inherit;
+  vertical-align: middle;
+}
+
 /* restore reveal.js 5 simple-theme headings (reveal.js 6 made them
    uppercase, semibold and smaller) */
 :root {

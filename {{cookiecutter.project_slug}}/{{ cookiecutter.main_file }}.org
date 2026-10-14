@@ -15,6 +15,7 @@
 #+OPTIONS: num:nil toc:nil center:nil reveal_title_slide:nil
 #+OPTIONS: reveal_slide_number:nil reveal_fragmentinurl:t
 #+REVEAL_EXTRA_CSS: ./node_modules/@fortawesome/fontawesome-free/css/all.min.css
+#+REVEAL_EXTRA_CSS: ./node_modules/material-symbols/outlined.css
 #+REVEAL_EXTRA_CSS: ./custom-style.css
 
 #+REVEAL_TITLE_SLIDE: <h2 class="title">%t</h2>
