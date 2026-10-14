@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yarn add --dev reveal.js
-yarn add --dev @fortawesome/fontawesome-free
+npm add --dev reveal.js
+npm add --dev @fortawesome/fontawesome-free
 
 git init
